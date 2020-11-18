@@ -1,4 +1,5 @@
 __pycache__
 .envs
 db.sqlite3
-settings.py
+**/settings.py
+.vscode
